@@ -1,5 +1,5 @@
 # AlertServer
-A simple farmework of echo server in IUP
+A simple framework of echo server in IUP
 
 ##### main window
 ---
